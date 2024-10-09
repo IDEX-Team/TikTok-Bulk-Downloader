@@ -22,9 +22,7 @@
 ## How to Use
 
 1. **Installation**: Download and install TikTok Bulk Downloader from the links above.
-2. **Input Links**:
-   - For channel links: Paste the URL of the TikTok channel into the input field and click "Start".
-   - For single video links: Paste the URL of the specific TikTok video into the input field and click "Start".
+2. **Input Links**: Paste the URL of the TikTok channel or specific TikTok video into the input field and click "Start".
 3. **Manage Downloads**: Videos will be automatically stored in the `Videos` directory, making it easy to manage and view your downloads.
 
 Join our community to receive support and stay updated with the latest features!
