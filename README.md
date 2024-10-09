@@ -1,1 +1,3 @@
-# TikTok-Bulk-Downloader
+# TikTok Bulk Downloader
+
+Not every small problem can be solved easily.
